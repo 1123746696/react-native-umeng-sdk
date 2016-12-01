@@ -48,6 +48,6 @@ android {
 
 dependencies {
     compile 'com.squareup.okio:okio:0.6.1'
-    compile 'com.squareup.wire:wire-runtime:1.7.0'
+    compile 'com.squareup.wire:wire-runtime:2.1.2'
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
